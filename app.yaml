@@ -6,3 +6,4 @@ application: sbinet-xyz
 handlers:
 - url: /.*
   script: _go_app
+  login: optional
